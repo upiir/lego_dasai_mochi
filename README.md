@@ -11,7 +11,7 @@ Robot face with 3D printed LEGO helmet, Xiao ESP32S3 and 128x128px 0.85" IPS dis
 
 Links from the video:
 - Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
-- Waveshare display: https://www.waveshare.com/0.85inch-lcd-module.htm
+- Waveshare display: https://s.click.aliexpress.com/e/_c3cloekP
 - Xiao ESP32S3: https://s.click.aliexpress.com/e/_c3EyyX7Z
 - ESP32S3 Documentation: https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/
 - Bricklink studio: https://www.bricklink.com/v3/studio/download.page
