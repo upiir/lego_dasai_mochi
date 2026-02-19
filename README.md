@@ -2,7 +2,7 @@
 Robot face with 3D printed LEGO helmet, Xiao ESP32S3 and 128x128px 0.85" IPS display
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/HodtB3C7RuQ**
 
 
 ![THUMB_lego_dasai_mochi_02](https://github.com/user-attachments/assets/fada9c45-9764-4138-8385-f2b7ebe33c8f)
